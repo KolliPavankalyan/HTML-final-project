@@ -1,0 +1,28 @@
+.left{
+    box-sizing: border-box;
+    float: left;
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.right{
+    float: center;
+    width: 30%;
+    margin-left: 120px;
+}
+.right-arrow{
+    float: right;
+    width: 20%;
+    margin-top: 200px;
+    margin-left: 60px;
+}
+.matter{
+    display: flex;
+    justify-content: space-evenly;
+}
+.rh6{
+    margin-top: 50px;
+}
+.rh4{
+    margin-top: 40px;
+}

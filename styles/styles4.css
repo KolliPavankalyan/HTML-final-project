@@ -1,0 +1,101 @@
+.div4{
+    float: left;
+ 
+}
+.div4-1{
+    margin-top: 100px;
+    margin-left: 100px;
+    text-align: center;   
+}
+.div4-2{
+    margin-left: 100px;
+}
+.suport{
+    display: flex;
+    justify-content:space-between;
+    box-sizing: border-box;
+    text-align: center;
+    width: 330px;
+    height: 100px;
+    border-width: 20px solid black;
+}
+.support{
+    display: flex;
+    justify-content:space-evenly;
+    flex-direction:row;
+    border: none;
+    margin-top: 280px;
+}
+.div4-l{
+    float: left;
+    box-sizing: border-box;
+    width: 350px;
+    height: 400px;
+    border: 1px solid  #e1ebf7;
+    text-align: center;
+    border-radius: 10px;
+}
+.div4-lh3{
+    padding-top: 100px;
+    font-size: 30px;
+}
+.div4-lp{
+    margin: 15px;
+}
+.pen{
+    margin-top: 100px;
+}
+.div4-c{
+    float: center;
+    box-sizing: border-box;
+    border: 1px solid #e1ebf7;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    border-radius: 10px;
+}
+.div4-ch3{
+    padding-top: 50px;
+    font-size: 30px;
+}
+.div4-cp{
+    margin: 15px;
+}
+.speaker{
+    margin-top: 60px;
+}
+.div4-r{
+    float: right;
+    border: 1px solid #e1ebf7;
+    box-sizing: border-box;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    border-radius: 10px;
+}
+.div4-rh3{
+    padding-top: 50px;
+    font-size: 30px;
+}
+.div4-rp{
+    margin: 15px;
+}
+.portfolio{
+    margin-top: 60px;
+}
+.div4-l:hover
+{
+    background: orangered;
+    color: white;
+}
+.div4-c:hover
+{
+    background: orangered;
+    color: white;
+}
+.div4-r:hover
+{
+    background: orangered;
+    color: white;
+}
+

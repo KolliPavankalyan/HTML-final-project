@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+.caursal{
+    margin-top: -15px;
+    font-family: 'Playfair Display', serif;
+    background-image: url(/asset/div2\ background.webp);
+    height: 1000px;
+    width:100%;
+    background-repeat: no-repeat;
+    margin-right: 500px;
+    background-size: 1519px;
+}
+.h4{
+    padding: 190px;
+    color:orangered;
+    text-align:inherit;
+    box-sizing: content-box;
+}
+.h1{
+    color: #002d5b;
+    text-size-adjust: 100px;
+    margin-top: -180px;
+}
+.h1 h1{
+   
+    padding-left: 190px;
+    font-size: 60px;
+    justify-content:left;
+}
+.p{
+    padding-left: 190px;
+    margin-top: 60px;
+    font-family:sans-serif;
+}
+.button1{
+    background: orangered;
+    height: 50px;
+    width: 200px;
+    border-radius: 6px;
+    margin-top: -200px;
+    margin-left: 180px;
+}
+.button2{
+    background-color: rgb(rgb(217, 223, 230), green, blue);
+    height: 50px;
+    width: 200px;
+    margin: 20px;
+    border:none;
+    border-radius: 6px;S
+}
+.button2:hover{
+    background-color:orangered;
+    border: 3px solid white;   
+}

@@ -1,0 +1,42 @@
+
+
+.menu-bar{
+    box-sizing: border-box;
+    display: flex;
+}
+.logo
+{
+     padding: 15px;
+    margin: 30px;
+}
+.list{
+    flex-direction: row;
+   margin-top: 40px;
+    margin-left: 220px;
+    text-align: center;
+    font-weight: bold;
+}
+.list ul{
+    list-style-type: none;
+    display: inline-flex;
+}
+.list ul li{
+    width: 50px;
+
+    margin: 20px;
+}
+.button{
+    border-radius: 6px;
+    background-color: orangered;
+    height: 50px;
+    width: 200px;
+    margin-top: 45px;
+    margin-left: 60px;
+    border: none;
+    color: white;
+}
+.li:hover{
+    background-color: orangered;
+    border-color: white;
+}
+

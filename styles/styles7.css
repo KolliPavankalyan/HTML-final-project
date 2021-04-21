@@ -1,0 +1,48 @@
+.some{
+    margin-top: 100px;
+    margin-left: 90px;
+}
+.div8{
+    display: flex;
+    margin-top: 40px;
+}
+.div8-l13{
+    margin-top:30px;
+    text-align: center;
+    margin-left: 0px;
+}
+.div8-r,.div8-c,.div8-l{
+    width: 300px;
+    height: 350px;
+    border-radius: 6px;
+    border: 1px solid #e1ebf7;
+    margin-left: 100px;
+    padding: 20px;
+}
+.div8-r1{
+    display: flex;
+    text-align: center; 
+  
+}
+.div8-r11{
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.div8-r12{
+    float: right;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div8-l:hover{
+    background-color: orangered;
+    color: white;
+}
+.div8-c:hover{
+    background-color: orangered;
+    color: white;
+}
+.div8-r:hover{
+    background-color: orangered;
+    color: white;
+}
